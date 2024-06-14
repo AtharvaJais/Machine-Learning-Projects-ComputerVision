@@ -1,0 +1,65 @@
+item {
+  name: "/m/01g317"
+  id: 1
+  display_name: "Human"
+}
+item {
+  name: "/m/0k4j"
+  id: 3
+  display_name: "car"
+}
+item {
+  name: "/m/01bjv"
+  id: 6
+  display_name: "bus"
+}
+item {
+  name: "/m/07jdr"
+  id: 7
+  display_name: "train"
+}
+item {
+  name: "/m/07r04"
+  id: 8
+  display_name: "truck"
+}
+item {
+  name: "/m/01s55n"
+  id: 33
+  display_name: "suitcase"
+}
+item {
+  name: "/m/07c52"
+  id: 72
+  display_name: "tv"
+}
+item {
+  name: "/m/01c648"
+  id: 73
+  display_name: "laptop"
+}
+item {
+  name: "/m/0fx9l"
+  id: 78
+  display_name: "microwave"
+}
+item {
+  name: "/m/029bxz"
+  id: 79
+  display_name: "oven"
+}
+item {
+  name: "/m/01k6s3"
+  id: 80
+  display_name: "toaster"
+}
+item {
+  name: "/m/040b_t"
+  id: 82
+  display_name: "refrigerator"
+}
+item {
+  name: "/m/0bt_c3"
+  id: 84
+  display_name: "Box"
+}
