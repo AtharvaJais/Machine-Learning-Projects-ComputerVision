@@ -6,7 +6,7 @@ Welcome to my GitHub repository! Here, I showcase my journey in machine learning
 
 ## About Me
 
-I'm currently exploring various machine learning algorithms and models, particularly in the realm of computer vision. My projects are geared towards understanding and implementing neural networks like CNN, RCNN, and RNN, while continuously learning about data preprocessing, model evaluation, and more.
+I'm currently exploring various machine learning algorithms and models, particularly in the realm of computer vision. My projects are geared towards understanding and implementing neural networks like CNN, Faster CNN, and algorithms while continuously learning about data preprocessing, model evaluation, and more.
 
 ## Projects
 
